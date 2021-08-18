@@ -287,7 +287,6 @@ header {
     height: 800px;
 }
 .projects-title{
-    border: 2px solid yellow;
     text-align: center;
     margin: 100px 0 50px 0;
 }
@@ -295,11 +294,9 @@ header {
 .projects-gallery{
     height: 230px;
     width: 240px;
-    border: 2px solid green;
 }
 .projects-family{
     display: flex;
-    border: 2px solid red;
     height: 440px;
     width: 100%;
 /*   flex-direction: row;
@@ -310,12 +307,10 @@ header {
     padding: 18px;
     background-color: white;
     height: 135px;
-    border: 2px solid green;
     line-height: 1.4;
     color: #000;
 }
 .projects-subfam{
-    border: 2px solid red;
     padding: 10px;
     height: 390px;
 }
@@ -346,7 +341,6 @@ header {
     height: 800px;
 }
 .Blog-title{
-    border: 2px solid yellow;
     text-align: center;
     margin: 100px 0 60px 0;
 }
@@ -457,16 +451,13 @@ header {
 .client-container{
     background: rgba(128, 128, 128, 0.07);
     height: 850px;
-    border: 2px solid red;
     margin-top: 15%;
 }
 .client-title{
-    border: 2px solid yellow;
     text-align: center;
     margin: 80px 0 50px 0;
 }
 .client-profile{
-    border: 2px solid red;
     /*flex-basis: 32%; */
     background-color: white;
     padding: 4em 3em;
@@ -508,11 +499,9 @@ header {
     margin-top: -50px;
 }
 .clients_talks{
-    border: 2px solid blue;
     line-height: 1.6;
 }
 .tst-author{
-    border: 2px solid black;
     margin: -55px 0 50px 70px;
 }
 .clients_talks1{
@@ -637,7 +626,6 @@ input[type="submit"]:hover{
 /*                  contact html section                    */
 .contact-container{
     background: #3f51b5;
-    border: 2px solid red;
     background-position: center;
     background-size: cover;
 }
@@ -645,7 +633,6 @@ input[type="submit"]:hover{
     border: 2px solid black;
 }
 .contact-img{
-    border: 2px solid goldenrod;
     display: flex;
     width: 550px;
     height: 330px;
@@ -668,7 +655,6 @@ input[type=text], textarea {
 }
 .form-img_folder{
     display: flex;
-    border: 2px solid blue;
     width: 100%;
    /* margin-bottom: 7rem;
     margin: 0 auto; */
@@ -682,7 +668,6 @@ input[type=text], textarea {
     border: 2px solid white;
 }
 .hone_p_holder{
-    border: 2px solid red;
     margin: 170px 0 0 0;
     padding-top: 20px;
     margin-bottom: 40px;
@@ -693,9 +678,6 @@ input[type=text], textarea {
 .hone_p_holder p{
     color: white;
     font-size: 18px;
-}
-.footer{
-    border: 2px solid red;
 }
 
 /*.form-control:focus{

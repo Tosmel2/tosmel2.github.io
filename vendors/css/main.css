@@ -469,7 +469,6 @@ header {
     border-radius: 50%;
 }
 .client-family{
-    border: 2px solid blue;
     display: flex;
     height: 580px;
     width: 100%;
